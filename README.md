@@ -1,4 +1,3 @@
-# MVGIB
 ## Towards Consistency and Complementarity: Multiview Graph Representation Learning via Variational Information Bottleneck
 
 All experiments are conducted with the following setting：
