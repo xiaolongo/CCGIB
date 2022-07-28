@@ -10,6 +10,7 @@ All experiments are conducted with the following setting：
 Dataset should be automatically downloaded when you have pytorch_geometric installed properly.
 
 Running commmand: 
+
 For graph classification, run the following command:
 ```shell
 python3 mvgib.py --dataset MUTAG --gpu_id 0 --batch_size 128 --view1 adj --view2 KNN
